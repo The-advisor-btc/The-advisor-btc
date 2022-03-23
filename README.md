@@ -1,4 +1,4 @@
-- 👋 Hi, I’m The-advisor-btc, check out my [bio link](owl.link/the_advisor.btc) for further information. I currently write Twitter Threads on
+- 👋 Hi, I’m The-advisor.btc, check out my [bio link](owl.link/the_advisor.btc) for further information. I currently write Twitter Threads on
   Stacks ecosystem developments, you can find the entire list by clicking [here](https://twitter.com/the_advisor_btc/status/1505598537052172297)
 - 👀 I’m particularly interested in Bitcoin & Stacks ecosystem but also closely follow Ethereum and L2 chains. I love interacting with 
   interesting and innovatine DeFi & NFT projects.
